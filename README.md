@@ -105,6 +105,6 @@
 
 ---
 
-**Instructor: [Your Name]**  
+**Instructor: Bridget & Peter**  
 **Academy: Lux Tech Academy**  
 **Duration: 4 Months**
