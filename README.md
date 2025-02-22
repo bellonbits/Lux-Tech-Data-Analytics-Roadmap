@@ -98,13 +98,6 @@
 
 ---
 
-## **Final Notes:**
-- **Projects:** Real-world case studies & hands-on assignments.
-- **Assessments:** Weekly quizzes and final capstone project.
-- **Certification:** Students receive a completion certificate after successfully completing the course.
-
----
-
 **Instructor: Bridget & Peter**  
 **Academy: Lux Tech Academy**  
 **Duration: 4 Months**
